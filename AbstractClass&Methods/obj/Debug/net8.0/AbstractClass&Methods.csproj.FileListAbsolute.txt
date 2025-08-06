@@ -1,0 +1,15 @@
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\bin\Debug\net8.0\AbstractClass&Methods.exe
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\bin\Debug\net8.0\AbstractClass&Methods.deps.json
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\bin\Debug\net8.0\AbstractClass&Methods.runtimeconfig.json
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\bin\Debug\net8.0\AbstractClass&Methods.dll
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\bin\Debug\net8.0\AbstractClass&Methods.pdb
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.AssemblyInfoInputs.cache
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.AssemblyInfo.cs
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.csproj.CoreCompileInputs.cache
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.sourcelink.json
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.dll
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\refint\AbstractClass&Methods.dll
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.pdb
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\AbstractClass&Methods.genruntimeconfig.cache
+C:\Users\tsorb\source\repos\Ohenewaah09\dcit318-assignment2-11019725\AbstractClass&Methods\obj\Debug\net8.0\ref\AbstractClass&Methods.dll
