@@ -38,7 +38,7 @@ namespace Abstract_Class_Method
             return width * height;
         }
     }
-    class program
+    class Program
     {
         static void Main(string[] args)
         {
